@@ -2,7 +2,7 @@
 - ## 👀 I’m interested in Hacking 
 - ## 🌱 I’m currently learning C# programming language
 - ## 💞️ I don't want to collaborate on Nothing
-- ## 📫 How to reach me Telegram - https://t.me/AVENGER_UZB
+- ## 📫 How to reach me Telegram -[Link]([Link text Here](https://link-url-here.org))
 - ## 😄 Pronouns: ...
 - ##  ⚡ Fun fact: ...
 
