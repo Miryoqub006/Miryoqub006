@@ -1,8 +1,8 @@
-- # 👋 Hi, I’m **@Miryoqub**
+  # 👋 Hi, I’m **@Miryoqub**
 - ## 👀 I’m interested in Hacking 
 - ## 🌱 I’m currently learning C# programming language
 - ## 💞️ I don't want to collaborate on Nothing
-- ## 📫 How to reach me Telegram -[Link]([Miryoqub](https://link-url-here.org))
+- ## 📫 How to reach me Telegram - [Dm](https://t.me/AVENGER_UZB)
 - ## 😄 Pronouns: ...
 - ##  ⚡ Fun fact: ...
 
