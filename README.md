@@ -1,4 +1,4 @@
-- #👋 Hi, I’m **@Miryoqub006**
+- # 👋 Hi, I’m **@Miryoqub**
 - ## 👀 I’m interested in Hacking 
 - ## 🌱 I’m currently learning C# programming language
 - ## 💞️ I’m looking to collaborate on TESLA
