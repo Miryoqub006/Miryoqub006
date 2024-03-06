@@ -6,7 +6,8 @@
 - ## 😄 Pronouns: ...
 - ##  ⚡ Fun fact: ...
 
-   ---> ![---->!]("https://yandex.uz/images/search?from=tabbar&img_url=https%3A%2F%2Fsun9-16.userapi.com%2FiVSPrlXLtXWFTzArUj_TBSMjUgFhtFgR68jESQ%2FJjEcU7d_hz8.jpg&lr=10335&pos=15&rpt=simage&text=c%23")
+   ![image](https://github.com/Miryoqub006/Miryoqub006/assets/158826997/8b81baf4-0cde-4cd3-9791-a5e143b2f6f8)
+
 
   
 
